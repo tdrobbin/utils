@@ -1,0 +1,33 @@
+# configs and utilities
+
+# pylab inline + other magic
+from IPython import get_ipython
+ipython = get_ipython()
+ipython.magic('pylab inline')
+ipython.magic('config InlineBackend.figure_format="retina"')
+ipython.magic('load_ext autoreload')
+ipython.magic('autoreload 2')
+
+import pandas as pd
+pd.set_option('display.precision', 4)
+pd.options.display.float_format = '{:.4f}'.format
+pd.plotting.register_matplotlib_converters()
+from pandas import DataFrame, Series
+
+import numpy as np
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set(style='ticks', font_scale=1.25, color_codes=True, 
+        rc={'figure.figsize': (10, 7), 'axes.spines.top': False, 'axes.spines.right': False,})
+# sns.set(font_scale=1.25, color_codes=True, rc={'figure.figsize': (7, 7)})
+
+# cells can have multiple outputs
+from IPython.core.interactiveshell import InteractiveShell
+from IPython.display import display
+InteractiveShell.ast_node_interactivity = "all"
+
+def df_info(df):
+    display(df.info(verbose=True))
+    display(df.describe(include='all'))
+    display(df.head(10))
