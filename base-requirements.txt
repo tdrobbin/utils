@@ -1,0 +1,19 @@
+kedro
+kedro-viz
+sqlalchemy
+jupyterlab
+pandas
+pandas-datareader
+numpy
+seaborn
+scikit-learn
+scipy
+dask
+cvxpy
+modin
+numba
+statsmodels
+tqdm
+
+# specific pins to solve bugs
+jedi==0.17.2
