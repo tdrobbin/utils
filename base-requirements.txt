@@ -1,19 +1,44 @@
-kedro
-kedro-viz
+# base stuff
 sqlalchemy
 jupyterlab
 pandas
-pandas-datareader
 numpy
 seaborn
 scikit-learn
 scipy
+tqdm
+pandas-profiling[notebook]
+
+# pipeline/big data
+kedro[all]
+kedro-viz
+pandas-datareader
 dask
 cvxpy
 modin
 numba
 statsmodels
-tqdm
+
+# viz
+plotly
+dash
+altair
+hvplot
+holoviews
+panel
+streamlit
+h2o-wave
+
+# scraping
+lxml
+beautifulsoup4
+
+# finance
+yfinance
+quantstats
+pyfolio
+alphalens
+bt
 
 # specific pins to solve bugs
 jedi==0.17.2
