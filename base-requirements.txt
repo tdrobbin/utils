@@ -8,6 +8,7 @@ scikit-learn
 scipy
 tqdm
 pandas-profiling[notebook]
+dtale
 
 # pipeline/big data
 kedro[all]
