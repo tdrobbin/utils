@@ -19,8 +19,17 @@ import scipy.stats as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(style='ticks', font_scale=1.25, color_codes=True, 
-        rc={'figure.figsize': (10, 7), 'axes.spines.top': False, 'axes.spines.right': False,})
-# sns.set(font_scale=1.25, color_codes=True, rc={'figure.figsize': (7, 7)})
+        rc={
+            'figure.figsize': (9, 6),
+            'grid.color': '#dddddd',
+            'axes.titlepad': 18,
+            'legend.frameon': False,
+            'axes.edgecolor': '#dddddd',
+            'axes.grid': True,
+            'xtick.minor.visible': True,
+            'ytick.minor.visible': True
+        })
+#         rc={'figure.figsize': (10, 7), 'axes.spines.top': False, 'axes.spines.right': False,})
 
 # cells can have multiple outputs
 from IPython.core.interactiveshell import InteractiveShell
