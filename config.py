@@ -13,6 +13,7 @@ pd.set_option('display.precision', 4)
 pd.options.display.float_format = '{:.4f}'.format
 pd.plotting.register_matplotlib_converters()
 from pandas import DataFrame, Series
+D, S = DataFrame, Series
 
 import numpy as np
 import scipy.stats as stats
@@ -35,6 +36,11 @@ sns.set(style='ticks', font_scale=1.25, color_codes=True,
 from IPython.core.interactiveshell import InteractiveShell
 from IPython.display import display
 InteractiveShell.ast_node_interactivity = "all"
+
+# setup hvplot
+import hvplot.pandas
+import holoviews as hv
+hvkw = dict(height=500, width=800, grid=True, legend='top')
 
 def df_info(df):
     display(df.info(verbose=True))
