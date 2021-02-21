@@ -46,3 +46,12 @@ def df_info(df):
     display(df.info(verbose=True))
     display(df.describe(include='all'))
     display(df.head(10))
+
+# print setup info
+print(ipython.banner)
+
+import os
+print('working directory : ' + os.getcwd())
+
+import subprocess
+print(subprocess.run(['conda', 'info'], capture_output=True).stdout.decode("utf-8"))
