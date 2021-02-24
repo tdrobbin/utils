@@ -45,6 +45,12 @@ import hvplot.pandas
 import holoviews as hv
 hvkw = dict(height=500, width=800, grid=True, legend='top')
 
+# import plotly.express as px
+# px.defaults.template = "gridon"
+# px.defaults.width = 700
+# px.defaults.height = 500
+# pd.options.plotting.backend = 'plotly'
+
 def df_info(df):
     display(df.info(verbose=True))
     display(df.describe(include='all'))
