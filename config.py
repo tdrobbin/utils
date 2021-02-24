@@ -19,7 +19,10 @@ import numpy as np
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
-sns.set(style='ticks', font_scale=1.25, color_codes=True, 
+sns.set(
+        style='ticks', 
+        font_scale=1.25, 
+        color_codes=True, 
         rc={
             'figure.figsize': (9, 6),
             'grid.color': '#dddddd',
