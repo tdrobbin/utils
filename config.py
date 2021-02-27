@@ -20,36 +20,41 @@ import scipy.stats as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(
-        style='ticks', 
-        font_scale=1.25, 
-        color_codes=True, 
-        rc={
-            'figure.figsize': (9, 6),
-            'grid.color': '#dddddd',
-            'axes.titlepad': 18,
-            'legend.frameon': False,
-            'axes.edgecolor': '#dddddd',
-            'axes.grid': True,
-            'xtick.minor.visible': True,
-            'ytick.minor.visible': True
-        })
-#         rc={'figure.figsize': (10, 7), 'axes.spines.top': False, 'axes.spines.right': False,})
+    style='ticks', 
+    font_scale=1.25, 
+    color_codes=True, 
+    rc={
+        'figure.figsize': (9, 6),
+        'grid.color': '#dddddd',
+        'axes.titlepad': 18,
+        'legend.frameon': False,
+        'axes.edgecolor': '#dddddd',
+        'axes.grid': True,
+        'xtick.minor.visible': True,
+        'ytick.minor.visible': True
+    }
+    # rc={
+    #     'figure.figsize': (10, 7), 
+    #     'axes.spines.top': False, 
+    #     'axes.spines.right': False
+    # }
+)
 
 # cells can have multiple outputs
 from IPython.core.interactiveshell import InteractiveShell
 from IPython.display import display
 InteractiveShell.ast_node_interactivity = "all"
 
-# setup hvplot
+# setup hvplot and plotly
 import hvplot.pandas
 import holoviews as hv
 hvkw = dict(height=500, width=800, grid=True, legend='top')
 
-# import plotly.express as px
-# px.defaults.template = "gridon"
-# px.defaults.width = 700
-# px.defaults.height = 500
-# pd.options.plotting.backend = 'plotly'
+import plotly.express as px
+px.defaults.template = "gridon"
+px.defaults.width = 700
+px.defaults.height = 500
+pd.options.plotting.backend = 'plotly'
 
 def df_info(df):
     display(df.info(verbose=True))
@@ -57,10 +62,10 @@ def df_info(df):
     display(df.head(10))
 
 # print setup info
-print(ipython.banner)
-
 import os
 print('working directory : ' + os.getcwd())
+
+print(ipython.banner)
 
 import subprocess
 print(subprocess.run(['conda', 'info'], capture_output=True).stdout.decode("utf-8"))
