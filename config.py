@@ -46,20 +46,26 @@ from IPython.display import display
 InteractiveShell.ast_node_interactivity = "all"
 
 # setup hvplot and plotly
-import hvplot.pandas
-import holoviews as hv
-hvkw = dict(height=500, width=800, grid=True, legend='top')
+try:
+    import hvplot.pandas
+    import holoviews as hv
+    hvkw = dict(height=500, width=800, grid=True, legend='top')
+except ImportError:
+    pass
 
-import plotly.express as px
-px.defaults.template = "gridon"
-px.defaults.width = 700
-px.defaults.height = 500
-pd.options.plotting.backend = 'plotly'
+try:
+    import plotly.express as px
+    px.defaults.template = "gridon"
+    px.defaults.width = 700
+    px.defaults.height = 500
+    pd.options.plotting.backend = 'plotly'
+except ImportError:
+    pass
 
 def df_info(df):
     display(df.info(verbose=True))
     display(df.describe(include='all'))
-    display(df.head(10))
+    display(df.sample(10))
 
 # print setup info
 import os
