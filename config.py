@@ -69,7 +69,7 @@ def df_info(df):
 
 # print setup info
 import os
-print('\nworking directory : ' + os.getcwd() + '\n)
+print('\nworking directory : ' + os.getcwd() + '\n')
 
 print(ipython.banner)
 
