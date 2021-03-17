@@ -69,9 +69,9 @@ def df_info(df):
 
 # print setup info
 import os
-print('working directory : ' + os.getcwd())
+print('\nworking directory : ' + os.getcwd() + '\n)
 
 print(ipython.banner)
 
 import subprocess
-print(subprocess.run(['conda', 'info'], capture_output=True).stdout.decode("utf-8"))
+print(subprocess.run(['conda', 'info'], capture_output=True, shell=True).stdout.decode("utf-8"))
