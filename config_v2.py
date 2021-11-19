@@ -10,7 +10,7 @@ ipython.magic('autoreload 2')
 
 # cells can have multiple outputs
 from IPython.core.interactiveshell import InteractiveShell
-from IPython.display import display, HTML
+from IPython.display import display, HTML, display_html
 InteractiveShell.ast_node_interactivity = "all"
 
 import pandas as pd
@@ -75,6 +75,14 @@ def df_info(df):
     display(df.describe(include='all'))
     display(df.sample(10))
 
+def display_dfs_inline(dfs, captions=None, margin=5):
+    from functools import reduce
+    from IPython.display import display_html
+    
+    captions = [''] * len(dfs) if captions is None else captions
+    stylers = [D(df).style.set_table_attributes(f'style="display:inline; margin:{margin}px;"').set_caption(c) for df, c in zip(dfs, captions)]
+    display_html(reduce(lambda x, y: x + y, (s._repr_html_() for s in stylers)), raw=True)
+    
 # print setup info
 import os
 print('\nworking directory : ' + os.getcwd() + '\n')
