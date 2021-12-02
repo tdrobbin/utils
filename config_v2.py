@@ -37,7 +37,7 @@ grid_light_theme = {
     },
     'style': 'whitegrid',
     'font_scale' : 1.25,
-    'color_codes: True,
+    'color_codes': True,
     'context': 'notebook'
 }
 ticks_light_theme = {
@@ -50,7 +50,7 @@ ticks_light_theme = {
     },
     'style': 'ticks',
     'font_scale' : 1.25,
-    'color_codes: True,
+    'color_codes': True,
     'context': 'notebook'
 }
 dark_theme_updates = {
