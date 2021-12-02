@@ -33,6 +33,7 @@ grid_light_theme = {
         'grid.color': '#dddddd',
         'axes.edgecolor': '#dddddd',
         'legend.frameon': False,
+        'patch.force_edgecolor': True,
     },
     'style' = 'whitegrid',
     'font_scale' : 1.25,
@@ -45,6 +46,7 @@ ticks_light_theme = {
         'axes.spines.top': False, 
         'axes.spines.right': False,
         'legend.frameon': False,
+        'patch.force_edgecolor': True,
     },
     'style' = 'ticks',
     'font_scale' : 1.25,
@@ -60,7 +62,6 @@ dark_theme_updates = {
         'xtick.color': 'white',
         'ytick.color': 'white',
         'axes.edgecolor': '#6f6f6f',
-        'patch.force_edgecolor': True,
         'axes.labelcolor': 'white'
     }
 }
