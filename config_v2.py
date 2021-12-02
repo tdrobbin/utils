@@ -35,7 +35,7 @@ grid_light_theme = {
         'legend.frameon': False,
         'patch.force_edgecolor': True,
     },
-    'style' = 'whitegrid',
+    'style': 'whitegrid',
     'font_scale' : 1.25,
     'color_codes: True,
     'context': 'notebook'
@@ -48,7 +48,7 @@ ticks_light_theme = {
         'legend.frameon': False,
         'patch.force_edgecolor': True,
     },
-    'style' = 'ticks',
+    'style': 'ticks',
     'font_scale' : 1.25,
     'color_codes: True,
     'context': 'notebook'
