@@ -26,12 +26,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 whitegrid_light_theme = {
     'rc': {
-        'figure.figsize': (9, 6), 
-        'axes.spines.top': False, 
-        'axes.spines.right': False,
-        'axes.spines.bottom': False, 
-        'axes.spines.left': False,
-    #     'grid.color': '#dddddd',
+        'figure.figsize': (9, 5), 
+        'grid.color': '#dddddd',
+        'axes.edgecolor': '#dddddd',
         'legend.frameon': False,
     },
     'style' = 'whitegrid',
@@ -41,7 +38,7 @@ whitegrid_light_theme = {
 }
 ticks_light_theme = {
     'rc': {
-        'figure.figsize': (9, 6), 
+        'figure.figsize': (9, 5), 
         'axes.spines.top': False, 
         'axes.spines.right': False,
         'legend.frameon': False,
