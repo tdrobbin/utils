@@ -24,7 +24,10 @@ import numpy as np
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
-whitegrid_light_theme = {
+from copy import copy
+from pprint import pprint
+
+grid_light_theme = {
     'rc': {
         'figure.figsize': (9, 5), 
         'grid.color': '#dddddd',
@@ -48,7 +51,23 @@ ticks_light_theme = {
     'color_codes: True,
     'context': 'notebook'
 }
-sns.set_theme(**whitegrid_light_theme)
+dark_theme_updates = {
+    'rc': {
+        'axes.facecolor': '#111111',
+        'figure.facecolor': '#111111',
+        'grid.color': '#6f6f6f',
+        'text.color': 'white',
+        'xtick.color': 'white',
+        'ytick.color': 'white',
+        'axes.edgecolor': '#6f6f6f',
+        'patch.force_edgecolor': True,
+        'axes.labelcolor': 'white'
+    }
+}
+grid_dark_theme = copy(grid_light_theme).update(dark_theme_updates)
+ticks_datk_theme = copy(ticks_light_theme).update(dark_theme_updates)
+
+sns.set_theme(**grid_light_theme)
 
 # setup hvplot and plotly
 try:
