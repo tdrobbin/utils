@@ -44,7 +44,7 @@ bt
 # utils
 ipdb
 icecream
-lineprofiler
+line_profiler
 tinydb
 fire
 
