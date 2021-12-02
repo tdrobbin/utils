@@ -41,5 +41,12 @@ pyfolio-reloaded
 alphalens-reloaded
 bt
 
+# utils
+ipdb
+icecream
+lineprofiler
+tinydb
+fire
+
 # specific pins to solve bugs
 # jedi==0.17.2
