@@ -37,8 +37,8 @@ beautifulsoup4
 # finance
 yfinance
 quantstats
-pyfolio
-alphalens
+pyfolio-reloaded
+alphalens-reloaded
 bt
 
 # specific pins to solve bugs
