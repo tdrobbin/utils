@@ -42,4 +42,4 @@ alphalens
 bt
 
 # specific pins to solve bugs
-jedi==0.17.2
+# jedi==0.17.2
