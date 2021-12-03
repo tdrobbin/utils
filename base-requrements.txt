@@ -1,0 +1,46 @@
+# base stuff
+sqlalchemy
+jupyterlab
+pandas
+numpy
+seaborn
+scikit-learn
+scipy
+tqdm
+pandas-profiling[notebook]
+dtale
+
+# pipeline/big data
+pandas-datareader
+cvxpy
+modin
+numba
+statsmodels
+
+# viz
+plotly
+dash
+hvplot
+holoviews
+panel
+
+# scraping
+lxml
+beautifulsoup4
+
+# finance
+yfinance
+quantstats
+pyfolio-reloaded
+alphalens-reloaded
+bt
+
+# utils
+ipdb
+icecream
+line_profiler
+tinydb
+fire
+
+# specific pins to solve bugs
+# jedi==0.17.2
