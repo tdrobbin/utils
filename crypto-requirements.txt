@@ -50,6 +50,7 @@ tqdm
 selenium
 chromedriver-binary
 webdriver-manager
+prefect
 
 
 # specific pins to solve bugs
