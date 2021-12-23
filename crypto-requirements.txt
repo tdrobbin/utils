@@ -16,6 +16,8 @@ cvxpy
 modin[all]
 numba
 statsmodels
+kedro
+prefect
 
 # viz
 plotly
@@ -50,7 +52,6 @@ tqdm
 selenium
 chromedriver-binary
 webdriver-manager
-prefect
 
 
 # specific pins to solve bugs
