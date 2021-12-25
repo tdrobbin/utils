@@ -1,0 +1,61 @@
+# base stuff
+sqlalchemy
+jupyterlab
+pandas
+numpy
+seaborn
+scikit-learn
+scipy
+tqdm
+pandas-profiling[notebook]
+dtale
+
+# pipeline/big data
+pandas-datareader
+cvxpy
+modin[all]
+numba
+statsmodels
+# kedro
+# kedro-viz
+prefect
+
+# viz
+plotly
+dash
+hvplot
+holoviews
+panel
+
+# scraping
+lxml
+beautifulsoup4
+html5lib
+
+# crypto
+ccxt
+
+# finance
+yfinance
+quantstats
+pyfolio-reloaded
+alphalens-reloaded
+bt
+
+# utils
+ipdb
+icecream
+line_profiler
+tinydb
+fire
+cython
+tqdm
+selenium
+chromedriver-binary
+webdriver-manager
+retrying
+tenacity
+
+
+# specific pins to solve bugs
+# jedi==0.17.2
