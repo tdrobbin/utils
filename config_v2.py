@@ -100,12 +100,17 @@ def display_dfs_inline(dfs, captions=None, margin=5):
     captions = [''] * len(dfs) if captions is None else captions
     stylers = [D(df).style.set_table_attributes(f'style="display:inline; margin:{margin}px;"').set_caption(c) for df, c in zip(dfs, captions)]
     display_html(reduce(lambda x, y: x + y, (s._repr_html_() for s in stylers)), raw=True)
-    
-# print setup info
-import os
-print('\nworking directory : ' + os.getcwd() + '\n')
 
-print(ipython.banner)
+# reset any bultin we may have overidden
+import builtins
+for var in dir(builtins):
+    globals()[var] = getattr(builtins, var)
+
+# # print setup info
+# import os
+# print('\nworking directory : ' + os.getcwd() + '\n')
+
+# print(ipython.banner)
 
 import subprocess
 print(subprocess.run(['conda', 'info'], capture_output=True, shell=True).stdout.decode("utf-8"))
