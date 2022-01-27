@@ -56,6 +56,13 @@ webdriver-manager
 retrying
 tenacity
 
+# web
+fastapi
+dask
+pyarrow
+fuzzywuzzy
+spacy
+nltk
 
 # specific pins to solve bugs
 # jedi==0.17.2
