@@ -26,6 +26,7 @@ dash
 hvplot
 holoviews
 panel
+streamlit
 
 # scraping
 lxml
