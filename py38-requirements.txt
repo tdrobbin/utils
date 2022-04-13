@@ -67,6 +67,7 @@ pyarrow
 fuzzywuzzy
 spacy
 nltk
+playwright
 
 # specific pins to solve bugs
 # jedi==0.17.2
