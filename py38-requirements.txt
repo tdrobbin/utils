@@ -44,6 +44,7 @@ alphalens-reloaded
 bt
 
 # utils
+requests
 ipdb
 icecream
 line_profiler
@@ -56,6 +57,8 @@ chromedriver-binary
 webdriver-manager
 retrying
 tenacity
+loguru
+python-box
 
 # web
 fastapi
