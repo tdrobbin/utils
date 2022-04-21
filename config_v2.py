@@ -88,6 +88,11 @@ try:
 except ImportError:
     pass
 
+try:
+    from ipydatagrid import DataGrid
+except ImportError:
+    pass
+
 def df_info(df):
     display(df.info(verbose=True))
     display(df.describe(include='all'))
