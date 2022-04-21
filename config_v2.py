@@ -3,7 +3,8 @@
 try:
     from loguru import logger
 except ImportError:
-    pass
+    from logging import getLogger
+    logger = getLogger(__name__)
 
 logger.info('configuring ipython')
 
