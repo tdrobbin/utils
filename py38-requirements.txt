@@ -27,6 +27,7 @@ hvplot
 holoviews
 panel
 streamlit
+ipydatagrid
 
 # scraping
 lxml
