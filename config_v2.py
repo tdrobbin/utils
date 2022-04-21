@@ -117,5 +117,5 @@ for var in dir(builtins):
 
 # print(ipython.banner)
 
-import subprocess
-print(subprocess.run(['conda', 'info'], capture_output=True, shell=True).stdout.decode("utf-8"))
+# import subprocess
+# print(subprocess.run(['conda', 'info'], capture_output=True, shell=True).stdout.decode("utf-8"))
