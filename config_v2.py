@@ -1,5 +1,12 @@
 # configs and utilities
 
+try:
+    from loguru import logger
+except ImportError:
+    pass
+
+logger.info('configuring ipython')
+
 # pylab inline + other magic
 from IPython import get_ipython
 ipython = get_ipython()
@@ -93,11 +100,6 @@ try:
 except ImportError:
     pass
 
-try:
-    from loguru import logger
-except ImportError:
-    pass
-
 def df_info(df):
     display(df.info(verbose=True))
     display(df.describe(include='all'))
@@ -115,6 +117,8 @@ def display_dfs_inline(dfs, captions=None, margin=5):
 import builtins
 for var in dir(builtins):
     globals()[var] = getattr(builtins, var)
+    
+logger.info('done configuring ipython')
 
 # # print setup info
 # import os
