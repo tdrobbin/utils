@@ -40,7 +40,7 @@ grid_light_theme = {
         'figure.figsize': (9, 5), 
         'grid.color': '#dddddd',
         'axes.edgecolor': '#dddddd',
-        'legend.frameon': False,
+        'legend.frameon': True,
         'patch.force_edgecolor': True,
     },
     'style': 'whitegrid',
@@ -55,6 +55,7 @@ ticks_light_theme = {
         'axes.spines.right': False,
         'legend.frameon': False,
         'patch.force_edgecolor': True,
+        'axes.titlepad': 30
     },
     'style': 'ticks',
     'font_scale' : 1.25,
