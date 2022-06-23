@@ -34,6 +34,10 @@ TARGET_DOMAINS = [
         'businesswire.com',
         'globenewswire.com',
         'reuters.com',
+        'prnewswire.com',
+        'finance.yahoo.com',
+        'cnbc.com',
+        'streetinsider.com'
         'bloomberg.com',
         'wsj.com',
         'barrons.com',
@@ -126,18 +130,20 @@ def parse_links(links):
 
     # now get price per share which usually is in the pattern of
     # $33.50 in cash for each share
-    regex = r'\$\d{1,6}(\.)?(\d{0,2})?.{0,30}\s(each|per)\sshare'
+    regex = r'\$\d{1,6}(\.)?(\d{0,2})?.{0,30}\s(each|per|a).{0,30}\sshare'
 
     response = requests.get(target_link, headers=FIREFOX_HEADERS)
     bs = BeautifulSoup(response.content.decode('utf-8'), features='lxml')
-    target_text = re.search(regex, bs.find('body').text)
+    target_text_reresp = re.search(regex, bs.find('body').text)
 
-    if target_text is not None:
-        logger.debug(f'target text found: {target_text}')
+    if target_text_reresp is not None:
+        target_text = target_text_reresp.group()
+        logger.debug(f'target text found: {target_text_reresp}')
     else:
+        target_text = None
         logger.debug(f'target text NOT found')
 
-    return target_link, target_text.group()
+    return target_link, target_text
 
 
 def parse_target_text(target_text):
@@ -200,11 +206,11 @@ def get_all_deal_prices(fpath, write_excel=True, logging_level='INFO'):
         fpath = Path(fpath)
         output_fpath = fpath.parent / 'mna_scraped_deal_prices.xlsx'
         all_info.to_excel(output_fpath)
-        logger.info(f'data saved: {output_fpath}')
+        logger.info(f'data saved: {output_fpath.absolute()}')
 
     else:
         return all_info
 
 
 if __name__ == '__main__':
-    fire.Fire()
+    fire.Fire(get_all_deal_prices)
