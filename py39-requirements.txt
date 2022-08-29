@@ -61,6 +61,10 @@ backoff
 tenacity
 loguru
 python-box
+pytest
+isort
+black
+jupyterlab-code-formatter
 
 # web
 fastapi
