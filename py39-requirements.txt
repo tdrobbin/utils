@@ -35,10 +35,11 @@ beautifulsoup4
 html5lib
 
 # crypto
-ccxt
+# ccxt
 
 # finance
 yfinance
+investpy
 quantstats
 pyfolio-reloaded
 alphalens-reloaded
