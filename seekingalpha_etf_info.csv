@@ -1,0 +1,464 @@
+,Index,ETF,Today,1 Month,YTD,1 Year,3 Years,category,subcategory,url,timestamp
+0,S&P 500,SPY,1.50%,-6.93%,-19.31%,-11.48%,28.41%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+1,DJIA,DIA,1.14%,-5.78%,-14.56%,-10.24%,15.28%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+2,NASDAQ 100,QQQ,2.14%,-6.00%,-27.41%,-19.82%,51.16%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+3,Mid Cap,MDY,2.13%,-10.21%,-19.68%,-14.80%,16.18%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+4,Small Cap,IJR,1.77%,-10.09%,-19.40%,-16.73%,17.22%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+5,Micro Cap,IWC,2.60%,-8.54%,-23.85%,-28.61%,13.63%,Key Market ETFs,U.S. Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+0,World Equities,ACWI,1.59%,-8.59%,-20.43%,-17.20%,12.84%,Key Market ETFs,Global Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+1,Emerging Markets,ADRE,3.72%,-9.05%,-16.59%,-31.70%,-5.68%,Key Market ETFs,Global Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+2,World ex-US,SPDW,1.73%,-12.87%,-22.45%,-23.15%,-4.97%,Key Market ETFs,Global Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+3,Developed Markets,VEA,1.62%,-12.09%,-21.64%,-22.39%,-4.65%,Key Market ETFs,Global Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+4,EAFE,IEFA,1.51%,-12.34%,-22.62%,-22.87%,-6.72%,Key Market ETFs,Global Equities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+0,20+ Year Treasury Bonds,TLT,-0.88%,0.77%,-22.55%,-21.79%,-13.34%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+1,Aggregate Bonds - US,BND,-0.28%,-0.42%,-11.06%,-12.56%,-8.95%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+2,TIPS - US,TIP,-0.16%,-3.17%,-11.91%,-11.20%,-0.73%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+3,High Yield Bonds - US,PHB,1.12%,-3.96%,-12.62%,-13.46%,-10.59%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+4,International Govt. Bonds,BWX,0.09%,-4.51%,-19.14%,-22.11%,-20.29%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+5,Short Term Corporate,VCSH,0.01%,-0.61%,-5.96%,-7.57%,-4.99%,Key Market ETFs,Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+0,Industrial Metals,DBB,2.24%,-18.69%,-15.77%,-6.53%,22.95%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+1,Gold,GLD,0.06%,-5.63%,-5.16%,-3.56%,22.70%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+2,Silver,SLV,0.34%,-13.16%,-17.76%,-26.99%,25.82%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+3,Platinum,PPLT,1.45%,-16.05%,-10.90%,-21.37%,4.62%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+4,Agricultural Commodities,DBA,1.88%,-11.37%,-0.56%,10.15%,18.38%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+5,Oil,DBO,3.73%,-17.82%,22.51%,29.18%,64.85%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+6,Natural Gas,UNG,12.15%,-40.59%,50.92%,46.58%,-8.85%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+7,Corn,CORN,1.56%,-15.09%,10.21%,19.72%,41.56%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+8,Soybeans,SOYB,2.42%,-12.85%,8.84%,11.03%,62.15%,Key Market ETFs,Commodities,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+0,US Dollar,UUP,0.03%,4.46%,11.51%,14.83%,8.75%,Key Market ETFs,Currencies,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+1,Chinese Yuan,CYB,0.74%,-0.67%,-3.89%,-7.21%,-0.31%,Key Market ETFs,Currencies,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+2,British Pound,FXB,0.89%,-4.97%,-12.00%,-13.96%,-5.74%,Key Market ETFs,Currencies,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+3,Euro,FXE,-0.21%,-4.83%,-10.91%,-14.72%,-11.81%,Key Market ETFs,Currencies,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+4,Japanese Yen,FXY,-0.16%,-2.93%,-15.45%,-19.04%,-21.50%,Key Market ETFs,Currencies,https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets,2022-07-08
+0,Long Term Bonds,SPLB,-0.17%,-2.34%,-23.16%,-24.41%,-15.74%,Bond ETFs,Broad Bond Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,Government & Credit Bonds,GBF,-0.28%,-0.43%,-11.46%,-12.51%,-7.46%,Bond ETFs,Broad Bond Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,Aggregate Bonds - US,BND,-0.28%,-0.42%,-11.06%,-12.56%,-8.95%,Bond ETFs,Broad Bond Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+3,Intermediate Bonds,SPIB,0.00%,-1.03%,-9.60%,-11.07%,-6.09%,Bond ETFs,Broad Bond Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+4,Short Term Bonds,BSV,-0.07%,-0.29%,-4.94%,-6.51%,-4.26%,Bond ETFs,Broad Bond Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,1-30 Year Treasuries,PLW,-0.64%,0.87%,-14.28%,-14.77%,-7.93%,Bond ETFs,U.S. Government Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,Long Term Treasurys,SPTL,-0.76%,0.70%,-21.54%,-21.17%,-13.22%,Bond ETFs,U.S. Government Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,TIPS - US,TIP,-0.16%,-3.17%,-11.91%,-11.20%,-0.73%,Bond ETFs,U.S. Government Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+3,Medium Term Treasurys,SPTI,-0.37%,0.54%,-7.77%,-9.16%,-3.90%,Bond ETFs,U.S. Government Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+4,T-Bills & Short Term Treasurys,BIL,0.00%,0.00%,0.00%,-0.03%,-0.04%,Bond ETFs,U.S. Government Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,U.S. Corporate Bonds - Long Term,IGLB,-0.09%,-2.21%,-23.12%,-24.34%,-16.07%,Bond ETFs,Corporate Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,Investment Grade Bonds - Broad,PFIG,-0.44%,-0.92%,-9.98%,-12.81%,-8.96%,Bond ETFs,Corporate Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,U.S. Corporate Bonds - Medium Term,IGIB,-0.02%,-1.48%,-13.63%,-15.65%,-9.81%,Bond ETFs,Corporate Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+3,Short Term Investment Grade Bonds,IGSB,0.02%,-0.61%,-6.09%,-7.66%,-4.94%,Bond ETFs,Corporate Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+4,High Yield Bonds - Broad,PHB,1.12%,-3.96%,-12.62%,-13.46%,-10.59%,Bond ETFs,Corporate Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,Emerging Market Government Bonds,PCY,0.05%,-8.47%,-29.83%,-32.91%,-36.92%,Bond ETFs,International Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,Inflation Protected Int. Govt. Bonds,WIP,0.05%,-8.89%,-19.07%,-22.41%,-21.01%,Bond ETFs,International Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,International Govt. Bonds,BWX,0.09%,-4.51%,-19.14%,-22.11%,-20.29%,Bond ETFs,International Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+3,Short Term Int. Govt. Bonds,BWZ,-0.15%,-3.98%,-12.57%,-16.04%,-13.71%,Bond ETFs,International Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+4,International Corporate Bonds,PICB,0.28%,-5.85%,-21.67%,-25.47%,-17.92%,Bond ETFs,International Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,California Muni Bonds,CMF,0.14%,-1.17%,-9.11%,-9.55%,-6.48%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,National Muni Bonds,TFI,0.00%,-1.15%,-10.59%,-11.40%,-7.64%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,National Muni Bonds - Intermediate,ITM,-0.07%,-0.43%,-10.34%,-11.41%,-7.60%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+3,National Muni Bonds - Long Term,MLN,0.67%,-3.24%,-17.13%,-18.22%,-13.42%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+4,National Muni Bonds - Short Term,SHM,-0.06%,0.19%,-3.56%,-4.30%,-2.97%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+5,New York Muni Bonds,NYF,-0.08%,-0.95%,-8.63%,-9.38%,-6.63%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+6,High Yield Muni Bonds,HYD,0.09%,-2.47%,-13.81%,-15.29%,-15.35%,Bond ETFs,U.S. Municipal Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,Convertible Bonds,CWB,1.25%,-5.77%,-21.72%,-25.13%,21.54%,Bond ETFs,Other Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+1,Mortgage Bonds,SPMB,-0.17%,-0.35%,-9.89%,-11.60%,-12.44%,Bond ETFs,Other Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+2,Senior Loans,BKLN,0.49%,-4.19%,-7.92%,-8.08%,-10.39%,Bond ETFs,Other Bonds,https://seekingalpha.com/etfs-and-funds/etf-tables/bonds,2022-07-08
+0,Australia,EWA,2.10%,-15.92%,-15.55%,-18.72%,-7.95%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+1,France,EWQ,1.09%,-15.27%,-24.79%,-22.23%,-4.63%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+2,Germany,EWG,1.86%,-20.01%,-32.82%,-36.01%,-20.92%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+3,Hong Kong,EWH,1.56%,-3.03%,-6.30%,-18.12%,-17.60%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+4,India,PIN,0.68%,-3.42%,-13.38%,-9.37%,-8.29%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+5,Indonesia,IDX,0.94%,-12.24%,-6.10%,3.10%,-19.34%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+6,Ireland,EIRL,1.33%,-15.46%,-30.74%,-31.92%,-6.38%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+7,Israel,EIS,2.63%,-9.75%,-24.33%,-15.48%,7.20%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+8,Italy,EWI,2.16%,-19.48%,-29.56%,-28.52%,-17.93%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+9,Malaysia,EWM,0.51%,-9.36%,-14.06%,-15.18%,-28.06%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+10,Austria,EWO,1.00%,-22.49%,-33.36%,-29.60%,-15.20%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+11,Mexico,EWW,-0.24%,-9.57%,-9.76%,-4.18%,3.54%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+12,Netherlands,EWN,2.10%,-14.18%,-32.64%,-29.55%,8.81%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+13,Peru,EPU,3.68%,-20.72%,-17.05%,-13.58%,-34.25%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+14,Poland,EPOL,2.24%,-16.88%,-35.47%,-36.94%,-42.32%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+15,Singapore,EWS,1.81%,-6.80%,-17.39%,-25.03%,-28.40%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+16,South Africa,EZA,3.55%,-13.09%,-10.69%,-14.26%,-16.61%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+17,South Korea,EWY,2.41%,-15.50%,-27.42%,-38.78%,-2.21%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+18,Spain,EWP,1.25%,-14.36%,-14.85%,-21.09%,-23.18%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+19,Sweden,EWD,2.04%,-17.94%,-34.53%,-35.10%,-1.53%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+20,Belgium,EWK,0.78%,-11.36%,-21.49%,-23.91%,-10.18%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+21,Switzerland,EWL,0.49%,-7.91%,-21.83%,-15.48%,10.45%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+22,Taiwan,EWT,2.87%,-14.77%,-27.92%,-25.47%,37.21%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+23,Thailand,THD,2.49%,-11.43%,-12.96%,-13.76%,-29.84%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+24,Turkey,TUR,-0.22%,-13.87%,-0.05%,-13.22%,-26.54%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+25,United Kingdom,EWU,1.58%,-11.88%,-12.07%,-11.24%,-10.12%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+26,United States,EUSA,1.86%,-8.35%,-20.05%,-15.63%,18.82%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+27,Vietnam,VNM,2.61%,-12.66%,-35.03%,-32.25%,-15.23%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+28,New Zealand,ENZL,0.82%,-7.24%,-23.40%,-26.67%,-15.76%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+29,Norway,NORW,3.27%,-16.62%,-17.77%,-19.01%,18.30%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+30,Philippines,EPHE,-1.23%,-8.42%,-17.83%,-15.50%,-27.41%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+31,Brazil,EWZ,3.56%,-24.38%,-6.06%,-31.20%,-41.71%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+32,Portugal,PGAL,1.14%,-10.38%,-6.83%,-9.62%,-3.00%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+33,Nigeria,NGE,-0.17%,-7.14%,-5.38%,-28.20%,-39.89%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+34,Qatar,QAT,0.29%,-8.10%,0.29%,8.80%,16.58%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+35,United Arab Emirates,UAE,1.13%,-11.13%,-6.62%,7.79%,12.86%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+36,Greece,GREK,2.39%,-18.55%,-17.66%,-20.28%,-27.04%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+37,Japan,EWJ,1.42%,-8.06%,-21.30%,-22.11%,-4.96%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+38,Saudi Arabia,KSA,1.47%,-11.25%,-0.05%,3.60%,24.04%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+39,Pakistan,PAK,0.40%,-7.85%,-23.55%,-39.57%,-34.01%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+40,Argentina,ARGT,1.73%,-19.32%,-20.61%,-18.87%,-24.61%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+41,Canada,EWC,2.24%,-13.47%,-14.08%,-11.57%,14.02%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+42,Denmark,EDEN,1.14%,-10.54%,-23.47%,-22.59%,36.28%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+43,Finland,EFNL,1.84%,-16.88%,-29.91%,-32.80%,-10.78%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+44,Kuwait,KWT,0.51%,-5.75%,5.85%,12.18%,-,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+45,Chile,ECH,4.13%,-23.39%,0.69%,-15.52%,-42.36%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+46,China,GXC,2.04%,2.70%,-12.54%,-28.51%,-6.04%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+47,Colombia,GXG,0.57%,-30.14%,-15.81%,-15.81%,-38.25%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+48,Egypt,EGPT,0.96%,-12.38%,-37.70%,-31.50%,-44.87%,Country ETFs,Country ETFs and ETNs,https://seekingalpha.com/etfs-and-funds/etf-tables/countries,2022-07-08
+0,Australian Dollar,FXA,0.91%,-5.80%,-6.85%,-9.88%,-3.81%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+1,Bitcoin,BTF,7.81%,-35.72%,-56.34%,-,-,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+2,Swiss Franc,FXF,-0.38%,-0.05%,-6.60%,-5.85%,-1.32%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+3,British Pound,FXB,0.89%,-4.97%,-12.00%,-13.96%,-5.74%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+4,Canadian Dollar,FXC,0.53%,-3.50%,-3.22%,-4.79%,-0.61%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+5,"Chinese Renminbi (""Yuan"")",CYB,0.74%,-0.67%,-3.89%,-7.21%,-0.31%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+6,Euro,FXE,-0.21%,-4.83%,-10.91%,-14.72%,-11.81%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+7,Japanese Yen,FXY,-0.16%,-2.93%,-15.45%,-19.04%,-21.50%,Currency ETFs,Single Currencies vs. USD,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+0,Euro - Long,ULE,-0.38%,-9.72%,-21.46%,-28.14%,-25.77%,Currency ETFs,Leveraged,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+1,Euro - Short,EUO,0.44%,10.32%,24.44%,34.31%,23.53%,Currency ETFs,Leveraged,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+2,Yen - Double Long,YCL,-0.29%,-6.19%,-29.29%,-35.26%,-41.68%,Currency ETFs,Leveraged,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+3,Yen - Double Short,YCS,0.07%,5.95%,38.13%,48.29%,-22.98%,Currency ETFs,Leveraged,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+0,Carry Trade,DBV,0.45%,-1.21%,4.58%,3.83%,5.80%,Currency ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+1,Dollar Bullish,UUP,0.03%,4.46%,11.51%,14.83%,8.75%,Currency ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+2,Dollar Bearish,UDN,0.06%,-4.53%,-11.07%,-14.45%,-13.04%,Currency ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+3,Emerging Mkts Basket,CEW,-0.34%,-5.26%,-5.97%,-10.16%,-13.53%,Currency ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+4,Bloomberg U.S. Dollar Bullish,USDU,-0.07%,4.33%,9.21%,11.61%,3.67%,Currency ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/currencies,2022-07-08
+0,U.S. Large Cap,DLN,0.91%,-6.89%,-10.19%,-1.89%,20.52%,Dividend ETFs,U.S. Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+1,U.S. Mid Cap,DON,1.61%,-10.42%,-12.02%,-6.13%,6.49%,Dividend ETFs,U.S. Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+2,U.S. Small Cap,DES,1.21%,-8.98%,-14.61%,-10.52%,2.63%,Dividend ETFs,U.S. Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+3,U.S. Total Market,DTD,1.07%,-7.35%,-10.30%,-2.31%,17.84%,Dividend ETFs,U.S. Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+4,U.S. Total ex-Financials,AIVL,1.05%,-7.43%,-11.55%,-7.66%,2.89%,Dividend ETFs,U.S. Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+0,"International High Yield, Rising Dividends",PID,1.36%,-10.88%,-8.18%,-3.80%,2.85%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+1,World ex-U.S.,DTH,1.59%,-14.94%,-13.69%,-15.44%,-17.60%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+2,World ex-U.S. ex-Financials,AIVI,1.03%,-13.00%,-17.46%,-20.01%,-16.31%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+3,World ex-U.S. Large Cap,DOL,1.49%,-13.58%,-17.39%,-17.23%,-13.77%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+4,World ex-U.S. Mid Cap,DIM,1.40%,-13.34%,-19.86%,-20.89%,-13.69%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+5,World ex-U.S. Small Cap,DLS,1.33%,-11.91%,-22.28%,-23.52%,-13.05%,Dividend ETFs,Global Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+0,Emerging Markets,DEM,1.70%,-13.15%,-17.08%,-20.74%,-19.48%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+1,Emerging Markets Small Caps,DGS,1.64%,-13.29%,-18.39%,-20.53%,-8.73%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+2,Europe,FDD,2.12%,-20.37%,-28.16%,-28.53%,-18.10%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+3,Europe Small Caps,DFE,1.82%,-18.68%,-29.11%,-29.07%,-9.80%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+4,Japan,DXJ,1.44%,-5.95%,-0.85%,2.09%,24.34%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+5,Japan Small Caps,DFJ,0.59%,-5.66%,-17.38%,-20.35%,-13.09%,Dividend ETFs,Global Regions Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+0,U.S. Large Cap,EPS,1.52%,-6.99%,-17.79%,-11.02%,23.95%,Dividend ETFs,U.S. Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+1,U.S. Mid Cap,EZM,2.37%,-12.42%,-18.32%,-11.32%,14.13%,Dividend ETFs,U.S. Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+2,U.S. Small Cap,EES,1.99%,-10.03%,-19.77%,-14.81%,14.75%,Dividend ETFs,U.S. Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+0,Dividend Equity,SCHD,1.11%,-8.05%,-11.12%,-4.54%,33.66%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+1,Dividend Growth,DGRO,0.98%,-5.98%,-13.67%,-5.29%,23.72%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+2,Dividend Appreciation,VIG,0.81%,-5.39%,-15.66%,-7.16%,23.71%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+3,Financial Preferred Stocks,PGF,0.90%,-2.57%,-17.27%,-19.45%,-15.84%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+4,"High Yield, Rising Dividends",SDY,0.59%,-5.83%,-7.34%,-1.96%,17.02%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+5,Preferred Stocks,PFF,1.37%,-4.97%,-16.99%,-16.78%,-11.18%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+6,Rising Dividends,PFM,0.83%,-5.87%,-12.48%,-4.59%,19.40%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+7,"International High Yield, Rising Dividends",PID,1.36%,-10.88%,-8.18%,-3.80%,2.85%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+8,Value Line Dividend Index,FVD,0.62%,-5.28%,-9.48%,-2.28%,13.85%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+9,Dividend Aristocrats,NOBL,0.65%,-6.09%,-12.23%,-4.92%,22.31%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+10,Buybacks,PKW,1.54%,-9.41%,-19.16%,-13.52%,22.20%,Dividend ETFs,Dividend Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/dividends,2022-07-08
+0,"Brazil, Russia, India, China",BKF,2.19%,-1.90%,-18.25%,-30.38%,-14.67%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+1,Latin America,ILF,3.03%,-22.33%,-7.20%,-27.99%,-36.95%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+2,ASEAN,ASEA,1.35%,-9.92%,-7.98%,-6.76%,-19.14%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+3,Chindia,FNI,3.01%,1.97%,-14.76%,-31.60%,11.81%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+4,Emerging Markets,ADRE,3.72%,-9.05%,-16.59%,-31.70%,-5.68%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+5,Emerging Asia Pacific,GMF,2.19%,-4.09%,-16.81%,-22.88%,3.16%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+6,Emerging Markets ex-China,EMXC,1.91%,-12.97%,-23.17%,-24.64%,-6.39%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+7,Emerging Markets Small Caps,EWX,1.78%,-10.88%,-20.57%,-22.69%,4.27%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+8,Africa,AFK,2.64%,-12.90%,-17.10%,-23.35%,-23.73%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+9,Frontier Countries,FM,0.87%,-10.51%,-23.30%,-19.76%,-11.74%,Emerging Market ETFs,Emerging Markets Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+0,Brazil,EWZ,3.56%,-24.38%,-6.06%,-31.20%,-41.71%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+1,Peru,EPU,3.68%,-20.72%,-17.05%,-13.58%,-34.25%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+2,Singapore,EWS,1.81%,-6.80%,-17.39%,-25.03%,-28.40%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+3,South Africa,EZA,3.55%,-13.09%,-10.69%,-14.26%,-16.61%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+4,South Korea,EWY,2.41%,-15.50%,-27.42%,-38.78%,-2.21%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+5,Taiwan,EWT,2.87%,-14.77%,-27.92%,-25.47%,37.21%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+6,Thailand,THD,2.49%,-11.43%,-12.96%,-13.76%,-29.84%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+7,Turkey,TUR,-0.22%,-13.87%,-0.05%,-13.22%,-26.54%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+8,Vietnam,VNM,2.61%,-12.66%,-35.03%,-32.25%,-15.23%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+9,Argentina,ARGT,1.73%,-19.32%,-20.61%,-18.87%,-24.61%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+10,Chile,ECH,4.13%,-23.39%,0.69%,-15.52%,-42.36%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+11,China A-Shares,ASHR,1.59%,5.97%,-14.66%,-14.83%,18.55%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+12,Nigeria,NGE,-0.17%,-7.14%,-5.38%,-28.20%,-39.89%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+13,Qatar,QAT,0.29%,-8.10%,0.29%,8.80%,16.58%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+14,United Arab Emirates,UAE,1.13%,-11.13%,-6.62%,7.79%,12.86%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+15,Greece,GREK,2.39%,-18.55%,-17.66%,-20.28%,-27.04%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+16,China,GXC,2.04%,2.70%,-12.54%,-28.51%,-6.04%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+17,Colombia,GXG,0.57%,-30.14%,-15.81%,-15.81%,-38.25%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+18,Hong Kong,EWH,1.56%,-3.03%,-6.30%,-18.12%,-17.60%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+19,India,PIN,0.68%,-3.42%,-13.38%,-9.37%,-8.29%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+20,Indonesia,IDX,0.94%,-12.24%,-6.10%,3.10%,-19.34%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+21,Malaysia,EWM,0.51%,-9.36%,-14.06%,-15.18%,-28.06%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+22,Mexico,EWW,-0.24%,-9.57%,-9.76%,-4.18%,3.54%,Emerging Market ETFs,Emerging Markets - Countries,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+0,EM Tech,EMQQ,3.01%,0.75%,-24.90%,-45.93%,-1.17%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+1,China Tech,CQQQ,1.96%,0.82%,-20.99%,-37.54%,7.56%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+2,India Consumer,INCO,0.35%,4.11%,-5.47%,-4.91%,23.92%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+3,China Infrastructure,KFYP,0.56%,2.06%,-10.31%,-14.37%,-7.12%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+4,China Energy,CHIE,2.41%,-9.04%,19.57%,36.83%,28.20%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+5,China Materials,CHIM,0.00%,-,-,-,-,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+6,China Healthcare,KURE,0.12%,17.04%,-15.99%,-42.60%,17.44%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+7,EM Consumer,ECON,1.44%,0.05%,-10.10%,-20.79%,-6.06%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+8,EM Infrastructure,EMIF,1.84%,-8.76%,-13.27%,-11.46%,-27.38%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+9,China Real Estate,CHIR,0.75%,2.96%,-12.24%,-37.02%,-48.18%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+10,China Internet,KWEB,2.75%,4.17%,-12.28%,-49.46%,-27.81%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+11,China Consumer,CHIQ,3.36%,7.56%,-10.60%,-30.31%,41.55%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+12,China Financials,CHIX,1.22%,0.88%,-6.42%,-12.82%,-19.51%,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+13,China Industrials,CHII,2.84%,-,-,-,-,Emerging Market ETFs,Emerging Markets Themes,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+0,Emerging Markets,DEM,1.70%,-13.15%,-17.08%,-20.74%,-19.48%,Emerging Market ETFs,Emerging Markets Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+1,Emerging Markets Small Caps,DGS,1.64%,-13.29%,-18.39%,-20.53%,-8.73%,Emerging Market ETFs,Emerging Markets Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+2,Quality Dividend Growth,DGRE,2.42%,-10.87%,-23.96%,-26.87%,-12.45%,Emerging Market ETFs,Emerging Markets Dividends,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+0,China Small Cap,ECNS,1.84%,4.63%,-18.15%,-30.15%,-7.39%,Emerging Market ETFs,Single Country Small and Mid Caps,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+1,Brazil Small Cap,EWZS,3.03%,-22.32%,-15.59%,-37.59%,-34.37%,Emerging Market ETFs,Single Country Small and Mid Caps,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+2,Brazil Mid Cap,BRF,3.96%,-23.12%,-18.54%,-42.49%,-45.79%,Emerging Market ETFs,Single Country Small and Mid Caps,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+3,India Small Cap,SMIN,0.92%,-2.77%,-17.32%,-8.56%,30.19%,Emerging Market ETFs,Single Country Small and Mid Caps,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,2022-07-08
+0,Global 50,DGT,1.72%,-12.23%,-16.37%,-13.90%,10.71%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+1,Global 100,IOO,1.59%,-7.45%,-16.90%,-9.91%,30.94%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+2,International Mid Caps,DIM,1.40%,-13.34%,-19.86%,-20.89%,-13.69%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+3,International Small Caps,GWX,1.72%,-13.09%,-24.76%,-26.73%,-6.27%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+4,World Index,ACWI,1.59%,-8.59%,-20.43%,-17.20%,12.84%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+5,World ex-U.S.,SPDW,1.73%,-12.87%,-22.45%,-23.15%,-4.97%,Global & Regional ETFs,World,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+0,Developed Markets,VEA,1.62%,-12.09%,-21.64%,-22.39%,-4.65%,Global & Regional ETFs,Emerging vs. Developed Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+1,Developed Market Value,EFV,1.62%,-15.06%,-16.51%,-18.39%,-13.13%,Global & Regional ETFs,Emerging vs. Developed Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+2,Emerging Markets,VWO,2.08%,-6.62%,-17.53%,-23.02%,-4.76%,Global & Regional ETFs,Emerging vs. Developed Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+3,Emerging Markets Small Caps,EWX,1.78%,-10.88%,-20.57%,-22.69%,4.27%,Global & Regional ETFs,Emerging vs. Developed Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+4,Frontier Markets,FM,0.87%,-10.51%,-23.30%,-19.76%,-11.74%,Global & Regional ETFs,Emerging vs. Developed Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+0,Asia,AIA,2.76%,-7.01%,-19.81%,-31.10%,0.71%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+1,Europe - Large Caps,SPEU,1.45%,-13.90%,-24.83%,-23.76%,-6.37%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+2,Euro Zone - Large Caps,FEZ,1.52%,-16.15%,-28.10%,-27.69%,-12.88%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+3,Latin America,ILF,3.03%,-22.33%,-7.20%,-27.99%,-36.95%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+4,Pacific ex-Japan,EPP,1.85%,-11.80%,-13.80%,-19.79%,-13.91%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+5,ASEAN,ASEA,1.35%,-9.92%,-7.98%,-6.76%,-19.14%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+6,"Brazil, Russia, India, China",BKF,2.19%,-1.90%,-18.25%,-30.38%,-14.67%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+7,Emerging Asia Pacific,GMF,2.19%,-4.09%,-16.81%,-22.88%,3.16%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+8,Europe,VGK,1.55%,-13.88%,-24.60%,-23.69%,-6.59%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+9,Africa,AFK,2.64%,-12.90%,-17.10%,-23.35%,-23.73%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+10,European Monetary Zone,EZU,1.65%,-16.50%,-28.46%,-28.65%,-11.82%,Global & Regional ETFs,Regions,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+0,Developed Markets Small Caps,SCZ,1.74%,-13.56%,-26.98%,-28.39%,-8.05%,Global & Regional ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+1,Emerging Markets Small Caps,EWX,1.78%,-10.88%,-20.57%,-22.69%,4.27%,Global & Regional ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+2,International Mid Caps,DIM,1.40%,-13.34%,-19.86%,-20.89%,-13.69%,Global & Regional ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+3,International Small Caps,GWX,1.72%,-13.09%,-24.76%,-26.73%,-6.27%,Global & Regional ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/global_and_regions,2022-07-08
+0,U.S. Market Growth,IUSG,2.09%,-5.99%,-25.76%,-16.71%,34.29%,Growth vs. Value ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+1,U.S. Market Value,IUSV,1.01%,-8.02%,-12.06%,-6.58%,16.89%,Growth vs. Value ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+2,Developed Markets Growth,EFG,1.37%,-9.10%,-27.35%,-25.54%,-1.37%,Growth vs. Value ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+3,Developed Market Value,EFV,1.62%,-15.06%,-16.51%,-18.39%,-13.13%,Growth vs. Value ETFs,Broad Markets,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+0,Large Cap Growth,IWF,1.90%,-5.60%,-26.40%,-18.77%,39.59%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+1,Large Cap Value,IWD,1.31%,-8.30%,-13.18%,-8.07%,13.08%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+2,Mid Cap Growth,IWP,2.49%,-6.38%,-29.47%,-28.76%,11.94%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+3,Mid Cap Value,IWS,1.59%,-10.64%,-16.36%,-10.82%,13.31%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+4,Small Cap Growth,IWO,3.00%,-6.15%,-28.49%,-31.96%,3.31%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+5,Small Cap Value,IWN,1.75%,-10.82%,-17.34%,-15.62%,12.89%,Growth vs. Value ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+0,Large Cap Growth,ILCG,2.08%,-6.27%,-28.24%,-21.96%,31.84%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+1,Large Cap Value,ILCV,1.24%,-7.72%,-12.93%,-6.15%,10.58%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+2,Mid Cap Growth,IMCG,2.03%,-7.02%,-27.33%,-23.41%,24.84%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+3,Mid Cap Value,IMCV,1.58%,-11.09%,-13.11%,-7.20%,11.26%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+4,Small Cap Growth,ISCG,3.10%,-6.67%,-27.26%,-29.53%,5.28%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+5,Small Cap Value,ISCV,1.95%,-10.79%,-14.63%,-12.08%,10.26%,Growth vs. Value ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+0,Large Cap Growth,SPYG,1.99%,-5.68%,-25.82%,-16.47%,36.20%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+1,Large Cap Value,SPYV,1.03%,-8.13%,-12.02%,-6.46%,16.38%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+2,Mid Cap Growth,MDYG,1.58%,-10.37%,-24.49%,-20.55%,11.99%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+3,Mid Cap Value,MDYV,1.75%,-10.36%,-14.91%,-9.49%,17.02%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+4,Small Cap Growth,SLYG,2.00%,-8.89%,-23.48%,-18.95%,15.67%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+5,Small Cap Value,SLYV,1.62%,-11.33%,-15.27%,-14.30%,17.67%,Growth vs. Value ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value,2022-07-08
+0,Large Cap,SPY,1.50%,-6.93%,-19.31%,-11.48%,28.41%,Market Cap ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Mid Cap,MDY,2.13%,-10.21%,-19.68%,-14.80%,16.18%,Market Cap ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+2,U.S. Small Caps,IJR,1.77%,-10.09%,-19.40%,-16.73%,17.22%,Market Cap ETFs,U.S. Equities - S&P Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,Large Cap,SCHX,1.61%,-7.03%,-20.30%,-13.74%,27.04%,Market Cap ETFs,U.S. Equities - Dow Jones Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Mid Cap,SCHM,2.10%,-10.07%,-21.19%,-18.77%,9.48%,Market Cap ETFs,U.S. Equities - Dow Jones Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+2,U.S. Small Caps,SCHA,2.39%,-9.83%,-23.18%,-23.45%,8.81%,Market Cap ETFs,U.S. Equities - Dow Jones Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+3,Micro Cap,FDM,1.66%,-8.33%,-17.61%,-13.38%,15.55%,Market Cap ETFs,U.S. Equities - Dow Jones Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,Large Cap,IWB,1.64%,-6.97%,-20.12%,-13.61%,27.41%,Market Cap ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Mid Cap,IWR,1.84%,-9.30%,-20.97%,-17.39%,15.49%,Market Cap ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+2,Small Cap,IWM,2.37%,-8.69%,-22.88%,-24.05%,9.49%,Market Cap ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+3,U.S. Microcaps,IWC,2.60%,-8.54%,-23.85%,-28.61%,13.63%,Market Cap ETFs,U.S. Equities - Russell Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,Large Cap,ILCB,1.67%,-7.10%,-20.45%,-13.85%,26.51%,Market Cap ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Mid Cap,IMCB,1.77%,-9.23%,-19.79%,-15.10%,16.27%,Market Cap ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+2,Small Cap,ISCB,2.42%,-9.05%,-21.41%,-22.17%,1.86%,Market Cap ETFs,U.S. Equities - Morningstar Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,S&P 500,RSP,1.45%,-8.83%,-16.69%,-10.15%,24.04%,Market Cap ETFs,Equal Weight Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Nasdaq 100,QQEW,2.15%,-7.21%,-25.46%,-21.26%,30.15%,Market Cap ETFs,Equal Weight Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,Large Cap,SPLV,-0.16%,-2.97%,-9.12%,1.32%,11.00%,Market Cap ETFs,Low Volatility Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Mid Cap,XMLV,0.50%,-5.25%,-11.38%,-3.41%,-0.86%,Market Cap ETFs,Low Volatility Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+2,Low Cap,XSLV,-0.02%,-4.23%,-14.00%,-3.99%,-7.82%,Market Cap ETFs,Low Volatility Indexes,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,Large Cap,PRF,1.36%,-9.00%,-13.31%,-7.01%,25.85%,Market Cap ETFs,Fundamentally Weighted,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+1,Small-Mid Cap,PRFZ,2.14%,-9.75%,-19.70%,-16.39%,19.49%,Market Cap ETFs,Fundamentally Weighted,https://seekingalpha.com/etfs-and-funds/etf-tables/market_cap,2022-07-08
+0,World ex-U.S.,VNQI,0.82%,-7.96%,-18.81%,-25.91%,-27.18%,Real Estate ETFs,Global Real Estate (REITs),https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+1,Europe,IFEU,-,-,-,-,-,Real Estate ETFs,Global Real Estate (REITs),https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+2,US,VNQ,0.27%,-5.76%,-20.42%,-10.62%,3.01%,Real Estate ETFs,Global Real Estate (REITs),https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+3,World,RWO,0.50%,-7.10%,-21.49%,-15.35%,-12.96%,Real Estate ETFs,Global Real Estate (REITs),https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+4,China,ECNS,1.84%,4.63%,-18.15%,-30.15%,-7.39%,Real Estate ETFs,Global Real Estate (REITs),https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+0,Industrial,INDS,0.29%,-3.61%,-25.71%,-5.32%,29.69%,Real Estate ETFs,U.S. Sector REITs,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+1,Mortgage,REM,1.40%,-10.81%,-21.33%,-26.30%,-36.22%,Real Estate ETFs,U.S. Sector REITs,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+2,Residential,REZ,-0.38%,-2.86%,-17.83%,-5.67%,8.03%,Real Estate ETFs,U.S. Sector REITs,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+3,Net-Lease,NETL,0.42%,-2.70%,-17.48%,-14.21%,-1.90%,Real Estate ETFs,U.S. Sector REITs,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+0,Homebuilders,XHB,1.44%,-8.44%,-32.87%,-21.06%,36.87%,Real Estate ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+1,Small Cap,ROOF,1.39%,-10.43%,-19.94%,-17.97%,-15.36%,Real Estate ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+2,Total U.S. Housing Market,HOMZ,1.09%,-7.88%,-26.41%,-18.07%,23.09%,Real Estate ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+3,Short-Term REITs,NURE,0.31%,-6.12%,-19.83%,-5.70%,9.74%,Real Estate ETFs,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate,2022-07-08
+0,Basic Materials,XLB,0.89%,-16.46%,-19.34%,-10.48%,24.05%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+1,Communication Services,XLC,1.57%,-6.38%,-27.78%,-31.54%,11.29%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+2,Consumer Discretionary,XLY,2.58%,-7.67%,-30.21%,-21.33%,17.23%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+3,Consumer Staples,XLP,0.10%,-1.21%,-5.38%,4.77%,22.83%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+4,Energy,XLE,3.61%,-23.38%,23.44%,29.48%,11.84%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+5,Financial Services,XLF,1.45%,-9.38%,-18.85%,-12.84%,12.54%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+6,Healthcare,XLV,0.42%,-0.03%,-7.87%,1.27%,39.35%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+7,Industrial,XLI,1.18%,-9.04%,-17.51%,-14.68%,12.60%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+8,Technology,XLK,2.07%,-7.06%,-25.16%,-13.50%,62.75%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+9,Utilities,XLU,-0.10%,-6.11%,-2.04%,9.07%,15.56%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+10,Real Estate,XLRE,0.07%,-5.31%,-20.11%,-8.27%,9.76%,Sector ETFs,U.S. Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+0,Consumer Discretionary,PSCD,1.95%,-11.84%,-31.79%,-33.41%,28.40%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+1,Consumer Staples,PSCC,-0.21%,0.82%,-6.52%,-0.85%,41.48%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+2,Healthcare,PSCH,1.60%,2.38%,-21.08%,-26.58%,20.01%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+3,Financials,PSCF,0.51%,-8.45%,-20.46%,-13.97%,-10.46%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+4,Energy,PSCE,6.68%,-34.19%,13.53%,2.99%,-8.75%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+5,Industrials,PSCI,1.71%,-10.29%,-16.40%,-8.86%,23.37%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+6,Basic Materials,PSCM,3.16%,-19.18%,-16.41%,-11.83%,23.14%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+7,Utilities,PSCU,-0.06%,-6.24%,-15.99%,-14.46%,9.08%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+8,Technology,PSCT,2.69%,-10.64%,-26.17%,-18.82%,36.02%,Sector ETFs,U.S. Sector - Small Cap,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+0,Basic Materials,MXI,2.02%,-20.94%,-20.73%,-20.69%,11.33%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+1,Utilities,JXI,0.11%,-8.38%,-7.32%,-0.47%,8.48%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+2,Consumer Discretionary,RXI,2.22%,-7.18%,-27.82%,-24.34%,7.31%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+3,Consumer Staples,KXI,0.27%,-2.92%,-10.10%,-4.45%,8.54%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+4,Energy,IXC,3.18%,-22.67%,16.54%,22.13%,2.21%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+5,Financial Services,IXG,1.72%,-12.36%,-18.84%,-15.61%,-0.14%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+6,Healthcare,IXJ,0.44%,-0.90%,-9.08%,-2.35%,31.78%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+7,Industrial,EXI,1.62%,-11.19%,-22.47%,-20.10%,4.82%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+8,Technology,IXN,2.22%,-8.76%,-28.02%,-18.76%,52.45%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+9,Telecommunications,IXP,1.60%,-6.19%,-23.99%,-28.25%,6.89%,Sector ETFs,Global Sector,https://seekingalpha.com/etfs-and-funds/etf-tables/sectors,2022-07-08
+0,Buybacks,PKW,1.54%,-9.41%,-19.16%,-13.52%,22.20%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,Strong Buy Rated Stocks,RYJ,2.17%,-11.07%,-18.12%,-15.56%,14.01%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,Real Return,CPI,0.87%,-5.51%,-7.87%,-7.49%,-8.92%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+3,Technicals: Developed Markets,PIZ,1.70%,-14.33%,-32.94%,-29.11%,-0.59%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+4,Technicals: Emerging Markets,PIE,1.84%,-17.41%,-30.43%,-34.44%,0.84%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+5,U.S. IPOs,FPX,2.27%,-10.02%,-31.97%,-34.74%,4.66%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+6,High Beta,SPHB,3.15%,-13.00%,-24.46%,-19.70%,38.08%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+7,Low Volatility,SPLV,-0.16%,-2.97%,-9.12%,1.32%,11.00%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+8,High Quality,SPHQ,1.42%,-9.69%,-20.47%,-13.46%,25.58%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+9,International Buybacks,IPKW,1.75%,-15.77%,-21.01%,-29.77%,-1.13%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+10,Buy-Write,PBP,-0.14%,-2.63%,-10.23%,-8.27%,-5.34%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+11,Guru Picks,GURU,2.41%,-6.50%,-27.72%,-30.35%,0.68%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+12,Hedged Equity,PHDG,1.10%,-3.61%,-13.71%,-8.67%,15.33%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+13,Closed-End Funds,CEFS,0.70%,-7.66%,-16.68%,-19.20%,-15.73%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+14,Wide Moat,MOAT,1.55%,-5.40%,-14.30%,-12.65%,33.92%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+15,Equal Weight Sectors,EQL,1.08%,-8.30%,-13.66%,-5.96%,25.27%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+16,Hedge Multi-Strategy,QAI,0.42%,-3.47%,-9.91%,-11.21%,-6.07%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+17,Hedge Macro,MCRO,0.00%,-,-,-,-,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+18,Merger Arbitrage,MNA,0.31%,-0.96%,-3.57%,-7.44%,-1.49%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+19,Spin-Offs,CSD,1.84%,-14.90%,-20.60%,-22.99%,-1.43%,ETF Strategies,Strategies,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,Hedge Multi-Strategy,QAI,0.42%,-3.47%,-9.91%,-11.21%,-6.07%,ETF Strategies,Alternative Asset Classes,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,Int. Hedged Equity,HEDJ,1.54%,-12.31%,-18.19%,-13.88%,-2.54%,ETF Strategies,Alternative Asset Classes,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,Volatility - short term,VXX,0.77%,0.59%,19.59%,-25.06%,-,ETF Strategies,Alternative Asset Classes,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+3,Volatility - mid-term,VXZ,-0.88%,3.08%,14.46%,15.44%,70.10%,ETF Strategies,Alternative Asset Classes,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,Developed Markets ex-U.S.,PXF,1.87%,-14.52%,-18.59%,-19.56%,-5.66%,ETF Strategies,Mixed Fundamentals,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,"Developed Markets ex-U.S., small & mid caps",PDN,1.62%,-12.54%,-22.48%,-25.96%,-5.37%,ETF Strategies,Mixed Fundamentals,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,Emerging Markets,PXH,2.15%,-10.34%,-19.23%,-22.83%,-18.64%,ETF Strategies,Mixed Fundamentals,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+3,U.S. 1000,PRF,1.36%,-9.00%,-13.31%,-7.01%,25.85%,ETF Strategies,Mixed Fundamentals,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+4,U.S. 1500 Small & Mid Caps,PRFZ,2.14%,-9.75%,-19.70%,-16.39%,19.49%,ETF Strategies,Mixed Fundamentals,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,U.S. Large Cap,EPS,1.52%,-6.99%,-17.79%,-11.02%,23.95%,ETF Strategies,Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,U.S. Mid Cap,EZM,2.37%,-12.42%,-18.32%,-11.32%,14.13%,ETF Strategies,Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,U.S. Small Cap,EES,1.99%,-10.03%,-19.77%,-14.81%,14.75%,ETF Strategies,Earnings,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,Social,DSI,1.59%,-6.39%,-21.34%,-12.57%,31.22%,ETF Strategies,"Environmental, Social & Corporate Governance (ESG)",https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,ESG - U.S.,SUSL,1.47%,-5.93%,-20.08%,-11.07%,31.62%,ETF Strategies,"Environmental, Social & Corporate Governance (ESG)",https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,ESG - Global,ESGG,1.41%,-10.12%,-22.20%,-16.73%,-,ETF Strategies,"Environmental, Social & Corporate Governance (ESG)",https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+3,Women in Leadership,SHE,1.48%,-7.00%,-24.47%,-24.45%,3.17%,ETF Strategies,"Environmental, Social & Corporate Governance (ESG)",https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+4,Environmental,ETHO,2.43%,-9.05%,-25.10%,-20.35%,21.61%,ETF Strategies,"Environmental, Social & Corporate Governance (ESG)",https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,Aggressive Asset Allocation,AOA,1.24%,-7.31%,-18.33%,-15.71%,7.95%,ETF Strategies,Asset Allocation,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+1,Conservative Asset Allocation,AOK,0.44%,-3.09%,-13.82%,-13.30%,-2.32%,ETF Strategies,Asset Allocation,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+2,Growth Asset Allocation,AOR,0.86%,-5.74%,-16.50%,-14.88%,3.81%,ETF Strategies,Asset Allocation,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+3,Moderate Asset Allocation,AOM,0.70%,-4.32%,-14.76%,-13.90%,-0.46%,ETF Strategies,Asset Allocation,https://seekingalpha.com/etfs-and-funds/etf-tables/strategies,2022-07-08
+0,S&P 500,SPLV,-0.16%,-2.97%,-9.12%,1.32%,11.00%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,S&P 400,XMLV,0.50%,-5.25%,-11.38%,-3.41%,-0.86%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,S&P 600,XSLV,-0.02%,-4.23%,-14.00%,-3.99%,-7.82%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+3,Russell 1000,LGLV,0.33%,-4.36%,-12.01%,-1.68%,20.39%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+4,Russell 2000,SMLV,0.59%,-5.18%,-12.17%,-5.88%,11.47%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+5,Broad,USMV,0.45%,-2.54%,-11.89%,-4.33%,13.16%,Smart Beta,Low Volatility - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Small/Mid Cap,PRFZ,2.14%,-9.75%,-19.70%,-16.39%,19.49%,Smart Beta,Fundamentally Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Large Cap,PRF,1.36%,-9.00%,-13.31%,-7.01%,25.85%,Smart Beta,Fundamentally Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,Total Market,FNDB,1.51%,-9.45%,-13.18%,-7.05%,28.38%,Smart Beta,Fundamentally Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Nasdaq 100,QQEW,2.15%,-7.21%,-25.46%,-21.26%,30.15%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,S&P 500,RSP,1.45%,-8.83%,-16.69%,-10.15%,24.04%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,Russell 1000,EQAL,1.90%,-10.37%,-16.60%,-13.33%,19.87%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+3,Russell 200,EQWL,1.18%,-7.68%,-16.69%,-10.92%,25.46%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+4,Russell Mid Cap,EWMC,2.17%,-9.98%,-18.27%,-14.03%,20.78%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+5,Russell 2000,EWSC,1.87%,-9.95%,-19.40%,-17.51%,26.49%,Smart Beta,Equal Weighted - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Small Cap,DWAS,3.68%,-20.20%,-26.77%,-25.05%,20.10%,Smart Beta,Momentum - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Broad,PDP,2.55%,-13.10%,-28.16%,-24.56%,10.14%,Smart Beta,Momentum - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,S&P 500,SPMO,1.69%,-8.59%,-19.20%,-13.37%,26.26%,Smart Beta,Momentum - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+3,S&P 1500,MMTM,1.64%,-7.13%,-19.86%,-11.13%,24.64%,Smart Beta,Momentum - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Quality - Large Cap,SPHQ,1.42%,-9.69%,-20.47%,-13.46%,25.58%,Smart Beta,Additional Factors - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Quality - Broad,QUAL,1.73%,-7.59%,-21.89%,-15.48%,22.06%,Smart Beta,Additional Factors - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,High Beta - Large Cap,SPHB,3.15%,-13.00%,-24.46%,-19.70%,38.08%,Smart Beta,Additional Factors - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+3,Reverse Weighted,YPS,1.52%,-10.06%,-17.47%,-13.05%,17.35%,Smart Beta,Additional Factors - U.S.,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Developed Markets,IDLV,5.88%,-8.24%,-14.22%,-11.65%,-20.06%,Smart Beta,Low Volatility - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Emerging Markets,EELV,1.07%,-9.91%,-9.44%,-7.11%,-7.46%,Smart Beta,Low Volatility - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,Global Markets,ACWV,0.47%,-3.12%,-11.84%,-7.79%,2.46%,Smart Beta,Low Volatility - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Developed Markets,PXF,1.87%,-14.52%,-18.59%,-19.56%,-5.66%,Smart Beta,Fundamental - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Developed Markets - Small/Mid Cap,PDN,1.62%,-12.54%,-22.48%,-25.96%,-5.37%,Smart Beta,Fundamental - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,Emerging Markets,PXH,2.15%,-10.34%,-19.23%,-22.83%,-18.64%,Smart Beta,Fundamental - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Developed Markets,IQLT,1.51%,-11.44%,-22.78%,-21.30%,0.47%,Smart Beta,Quality - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Emerging Markets,GEM,1.99%,-8.87%,-21.40%,-27.18%,-11.58%,Smart Beta,Quality - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+2,Global Markets,QWLD,0.94%,-6.77%,-16.69%,-11.71%,14.11%,Smart Beta,Quality - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+3,Global Dividends,IQDF,2.03%,-13.36%,-22.33%,-24.83%,-14.45%,Smart Beta,Quality - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Developed Markets,IDMO,1.90%,-14.41%,-22.85%,-15.20%,7.71%,Smart Beta,High Beta - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Emerging Markets,EEMO,1.68%,-,-,-,-,Smart Beta,High Beta - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Developed Markets,PIZ,1.70%,-14.33%,-32.94%,-29.11%,-0.59%,Smart Beta,Momentum - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+1,Emerging Markets,PIE,1.84%,-17.41%,-30.43%,-34.44%,0.84%,Smart Beta,Momentum - Global/International,https://seekingalpha.com/etfs-and-funds/etf-tables/smart_beta,2022-07-08
+0,Environmental Services,EVX,1.01%,-10.85%,-15.24%,-7.75%,25.45%,Themes & Subsectors ETFs,Alternative Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Nuclear,NLR,1.37%,-9.08%,-5.55%,-1.92%,0.91%,Themes & Subsectors ETFs,Alternative Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Solar,TAN,5.57%,-7.46%,-7.68%,-20.33%,142.86%,Themes & Subsectors ETFs,Alternative Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Wind,FAN,1.69%,-8.47%,-15.12%,-21.01%,26.51%,Themes & Subsectors ETFs,Alternative Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Clean Energy,PBD,4.56%,-12.86%,-27.28%,-36.74%,53.68%,Themes & Subsectors ETFs,Alternative Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Gaming,BJK,1.16%,-7.51%,-23.51%,-35.10%,-11.55%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Vice Stocks,VICE,0.53%,-7.87%,-23.46%,-27.30%,-0.95%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Food & Beverage,PBJ,1.21%,-3.61%,-2.95%,5.65%,27.36%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Homebuilders,XHB,1.44%,-8.44%,-32.87%,-21.06%,36.87%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Retail,XRT,3.70%,-10.25%,-34.13%,-38.05%,38.40%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Online Retail,IBUY,4.43%,-9.45%,-50.05%,-65.57%,-12.51%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+6,Liesure & Entertainment,PEJ,2.02%,-12.45%,-25.19%,-28.73%,-17.12%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+7,Media,PBS,2.08%,-10.35%,-32.02%,-38.06%,0.33%,Themes & Subsectors ETFs,Consumer,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Oil & Gas Exploration & Production,PXE,5.48%,-31.09%,24.84%,34.24%,42.85%,Themes & Subsectors ETFs,Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Oil & Gas Equip. & Services,PXJ,5.54%,-30.00%,7.86%,-9.02%,-42.77%,Themes & Subsectors ETFs,Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Infrastructure,ENFR,3.79%,-17.71%,3.01%,-2.89%,-10.92%,Themes & Subsectors ETFs,Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Natural Gas Producers,FCG,6.32%,-31.62%,18.80%,28.36%,43.53%,Themes & Subsectors ETFs,Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Uranium,URA,5.99%,-18.85%,-20.95%,-13.35%,50.08%,Themes & Subsectors ETFs,Energy,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Broker Dealers,IAI,1.69%,-8.08%,-23.76%,-16.80%,29.36%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Private Equity,PSP,1.73%,-14.53%,-36.48%,-36.60%,-18.91%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Property & Casualty Insurance,KBWP,0.31%,-3.97%,2.17%,7.21%,13.51%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Capital Markets,KCE,1.79%,-9.04%,-28.20%,-20.90%,31.46%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Insurance,KIE,0.66%,-5.31%,-5.87%,-0.84%,8.70%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Banks,KBWB,1.98%,-12.12%,-23.33%,-17.60%,1.36%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+6,Regional Banks,KBWR,1.21%,-7.97%,-14.16%,-6.99%,6.65%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+7,Private Equity,PSP,1.73%,-14.53%,-36.48%,-36.60%,-18.91%,Themes & Subsectors ETFs,Financials,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Biotech,PBE,1.72%,7.91%,-14.94%,-21.22%,13.36%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Pharmaceuticals,PJP,0.56%,3.73%,-5.12%,-4.85%,27.30%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Healthcare Providers,IHF,1.13%,0.37%,-10.14%,-2.80%,50.41%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Medical Devices,IHI,0.74%,-3.68%,-22.02%,-16.42%,26.61%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Medical Equipment,XHE,1.95%,-2.79%,-25.24%,-31.89%,7.35%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Cancer,CNCR,3.41%,16.64%,-30.97%,-47.74%,-23.37%,Themes & Subsectors ETFs,Healthcare,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Transport,IYT,1.55%,-9.27%,-22.61%,-17.67%,13.40%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Aerospace & Defense,PPA,0.86%,-5.54%,-3.50%,-6.82%,6.36%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Global Infrastructure,GII,0.89%,-9.11%,-2.86%,-0.94%,-1.62%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Global Water Resources,PIO,1.46%,-8.07%,-27.69%,-21.33%,11.59%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Shipping,SEA-OLD,-,-,-,-,-,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Airlines,JETS,1.26%,-16.23%,-21.19%,-31.04%,-46.32%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+6,Auto Manufacturers,CARZ,4.67%,-13.72%,-25.53%,-24.96%,33.90%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+7,Autonomous Vehicles,IDRV,4.31%,-14.29%,-33.19%,-26.70%,51.18%,Themes & Subsectors ETFs,Industrials & Infrastructure,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Gold Miners,GDX,1.38%,-16.85%,-16.36%,-22.39%,5.51%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Hard Assets Producers,HAP,2.99%,-19.04%,-7.74%,-5.13%,19.08%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Junior Gold Miners,GDXJ,2.28%,-23.57%,-26.85%,-34.79%,-11.49%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Metals & Mining,XME,5.22%,-25.36%,-8.04%,-2.12%,47.12%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Steel Production,SLX,4.31%,-26.10%,-11.05%,-21.54%,22.42%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Silver Miners,SIL,1.96%,-21.18%,-33.12%,-42.73%,-6.87%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+6,Timber,WOOD,1.98%,-17.36%,-20.02%,-14.97%,20.69%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+7,Copper Producers,COPX,6.06%,-31.59%,-23.54%,-22.11%,38.74%,Themes & Subsectors ETFs,"Materials, Metals and Mining",https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Semiconductors,PSI,4.63%,-19.20%,-39.22%,-25.36%,71.43%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+1,Big Data,AIQ,2.73%,-7.86%,-33.30%,-31.11%,27.59%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+2,Cybersecurity,CIBR,2.30%,-2.23%,-20.16%,-12.00%,43.37%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+3,Gaming & eSports,ESPO,2.25%,-8.74%,-27.46%,-32.99%,43.86%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+4,Networking,PXQ,2.60%,-6.60%,-28.82%,-20.80%,21.43%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+5,Software,PSJ,1.48%,-3.10%,-24.95%,-41.97%,-3.22%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+6,Internet,PNQI,2.58%,-6.95%,-42.01%,-51.67%,-11.16%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+7,Cloud Computing,SKYY,3.42%,-3.74%,-33.79%,-35.48%,16.68%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+8,Smartphones,NXTG,1.82%,-9.49%,-22.46%,-15.81%,28.76%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+9,Social Media,SOCL,2.23%,-7.65%,-36.56%,-51.87%,3.70%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+10,Robotics,ROBO,2.89%,-11.58%,-35.84%,-30.87%,13.30%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+11,Blockchain Technology,BLOK,5.32%,-16.92%,-53.20%,-60.10%,1.35%,Themes & Subsectors ETFs,Technology,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
+0,Smart Grid,GRID,2.37%,-12.14%,-24.71%,-16.99%,60.75%,Themes & Subsectors ETFs,Utilities,https://seekingalpha.com/etfs-and-funds/etf-tables/themes_and_subsectors,2022-07-08
