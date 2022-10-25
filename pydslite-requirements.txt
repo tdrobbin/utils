@@ -1,0 +1,33 @@
+# base stuff
+jupyterlab
+pandas
+numpy
+sqlalchemy
+seaborn
+scikit-learn
+statsmodels
+scipy
+tqdm
+pandas-profiling[notebook]
+
+# viz
+plotly
+ipydatagrid
+
+# scraping
+lxml
+beautifulsoup4
+html5lib
+
+# utils
+requests
+ipdb
+tinydb
+
+tenacity
+loguru
+python-box
+jupyterlab-code-formatter
+
+dask
+pyarrow
