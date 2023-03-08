@@ -1,6 +1,7 @@
 # base stuff
 sqlalchemy
 jupyterlab
+jupyter-contrib-nbextensions
 pandas
 numpy
 seaborn
