@@ -1,0 +1,2 @@
+windows conda in vs code: https://stackoverflow.com/a/67996662
+
