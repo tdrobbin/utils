@@ -79,6 +79,9 @@ dependencies:
   - cython
   - scalene
   - numba
+  - dtale
+  - pydantic
+  - fastapi
 
 
 
