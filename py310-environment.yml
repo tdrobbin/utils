@@ -55,7 +55,7 @@ dependencies:
   - pyyaml
   - pysftp
   - kedro
-  - great_expectations
+  - great-expectations
   - ipyregulartable
   - pandas-datareader
   - pycaret
@@ -63,7 +63,7 @@ dependencies:
   - distributed
   - polars
   - connectorx
-  - duckdb
+  - python-duckdb
   - modin
   - vaex
   - ydata-profiling
