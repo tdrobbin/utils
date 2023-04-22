@@ -1,1 +1,86 @@
 
+name: py310
+
+channels:
+  - anaconda
+  - conda-forge
+  - scikit-learn
+  - plotly
+  - microsoft
+  - pyviz
+  - h2oai
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - scikit-learn
+  - statsmodels
+  - prefect
+  - sqlalchemy
+  - alembic
+  - tqdm
+  - seaborn
+  - pytest
+  - pytest-html
+  - codecov
+  - loguru
+  - ipdb
+  - pyodbc
+  - openpyxl
+  - sqlacodegen
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - playwright
+  - plotly
+  - hvplot
+  - panel
+  - ipydatagrid
+  - fuzzywuzzy
+  - pycountry
+  - nodejs
+  - openapi-python-client
+  - yfinance
+  - xlrd
+  - xlwt
+  - xlsxwriter
+  - scipy
+  - pycountry
+  - pyarrow
+  - gitpython
+  - pygithub
+  - pyyaml
+  - pysftp
+  - kedro
+  - great_expectations
+  - ipyregulartable
+  - pandas-datareader
+  - pycaret
+  - dask
+  - distributed
+  - polars
+  - connectorx
+  - duckdb
+  - modin
+  - vaex
+  - ydata-profiling
+  - streamlit
+  - h2o-wave
+  - dataprep
+  - psycopg2
+  - mysql
+  - requests
+  - tenacity
+  - exchange-calendars
+  - pandas-market-calendars
+  - cython
+  - scalene
+  - numba
+
+
+
+
+
