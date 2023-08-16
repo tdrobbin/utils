@@ -1,0 +1,33 @@
+name: llm
+
+dependencies:
+  - python=3.10
+  - pip:
+    # base stuff
+    - pandas[all]
+    - scipy
+    - jupyterlab
+    - jupyter_contrib_nbextensions
+    - scikit-learn
+    - statsmodels
+    - sqlalchemy
+    - plotly
+    - requests
+
+    # llm stuff
+    - huggingface_hub
+    - datasets
+    - transformers
+    - llama_cpp_python
+    - gpt4all
+    - langchain
+    - outlines
+    - openai
+    - sentence_transformers
+    - unstructured
+    - chromadb
+    - faiss-cpu
+    - pyepsilla
+    - torch
+    - torchvision
+    - torchaudio
