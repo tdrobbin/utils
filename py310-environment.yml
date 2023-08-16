@@ -68,7 +68,7 @@ dependencies:
   - vaex
   - ydata-profiling
   - streamlit
-  - h2o-wave
+  # - h2o-wave
   - dataprep
   - psycopg2
   - mysql
