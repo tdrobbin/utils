@@ -39,7 +39,8 @@ dependencies:
   - hvplot
   - panel
   - ipydatagrid
-  - fuzzywuzzy
+  # - fuzzywuzzy
+  - thefuzz
   - pycountry
   - nodejs
   - openapi-python-client
