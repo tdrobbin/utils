@@ -89,6 +89,20 @@ dependencies:
   - datasette
   - mlflow
   - gradio
+  - gensim
+  - joblib
+  - nltk
+  - schedule
+  - scipy
+  - boto3
+  - pyarrow
+  - scrapy
+  - isort
+  - black
+  - ruff
+  - matplotlib
+  - h5py
+  - pyarrow
 
   # llm things
   - openai
