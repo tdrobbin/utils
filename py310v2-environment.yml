@@ -1,4 +1,3 @@
-
 name: py310v2
 
 channels:
@@ -103,13 +102,30 @@ dependencies:
   - matplotlib
   - h5py
   - pyarrow
+  - python-dotenv
+  - python-box
+  - dataset
+  - tinydb
+  - databricks-cli
+  - databricks-sdk
+  - databricks-sql-connector
+  - supabase
+  - storage3 # supabse
+  - snakeviz
+  - httpx
+  - aiofiles
+  - databases
+  - uvicorn
+  - starlette
+  - django
+  - django-ninja
 
   # llm things
   - openai
   - langchain
   - chromadb
   - transformers
-  - huggingface-hub
+  - huggingface_hub
   - datasets
   - tokenizers
   - spacy
