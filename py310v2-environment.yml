@@ -1,5 +1,5 @@
 
-name: py310
+name: py310v2
 
 channels:
   - anaconda
