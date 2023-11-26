@@ -1,3 +1,4 @@
+
 name: py310v2
 
 channels:
@@ -18,6 +19,8 @@ dependencies:
   - numpy
   - jupyterlab
   - jupyter_contrib_nbextensions
+  - nb_conda_kernels
+  - ipykernel
   - scikit-learn
   - statsmodels
   - prefect
@@ -119,6 +122,8 @@ dependencies:
   - starlette
   - django
   - django-ninja
+  - fire
+  - click
 
   # llm things
   - openai
@@ -134,3 +139,7 @@ dependencies:
   - torchaudio
   - cpuonly
   - fastai
+
+  # non python
+  - nodejs
+  
