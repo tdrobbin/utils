@@ -43,7 +43,7 @@ RUN apt-get install -y mongodb
 RUN apt-get install -y redis-server
 
 # Node.js Installation
-RUN curl -sL https://deb.nodesource.com/setup_15.x | bash -
+RUN curl -sL https://deb.nodesource.com/setup_20.x | bash -
 RUN apt-get install -y nodejs
 
 # Docker Installation
