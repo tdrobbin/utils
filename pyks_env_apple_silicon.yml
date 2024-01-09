@@ -27,10 +27,10 @@ dependencies:
   - cython
   - dask
   - dask-cloudprovider
-  - databases
+  # - databases
   - datasets
   - datashader
-  - deltalake
+  # - deltalake
   - diskcache
   - distributed
   - exchange-calendars
@@ -51,12 +51,12 @@ dependencies:
   - jupyterlab
   - kedro
   - kedro-viz
-  - langchain
-  - llama-index
+  # - langchain
+  # - llama-index
   - loguru
   - lxml
   - mlflow
-  - modin
+  # - modin
   - nb_conda_kernels
   - nodejs
   - numba
@@ -68,7 +68,7 @@ dependencies:
   - pandas-datareader
   - pandas-market-calendars
   - panel
-  - playwright
+  # - playwright
   - plotly
   - polars
   - prefect
@@ -85,7 +85,7 @@ dependencies:
   - python-dotenv
   - python-duckdb
   - pytorch
-  - ray-all
+  # - ray-all
   - requests
   - ruff
   - schedule
@@ -111,11 +111,11 @@ dependencies:
   - xlwt
   - ydata-profiling
   - yfinance
-  # - pip:
-  #   - databases
-  #   - deltalake
-  #   - llama-index
-  #   - langchain
-  #   - modin
-  #   - playwright
-  #   - ray[all]
+  - pip:
+    - databases
+    - deltalake
+    - llama-index
+    - langchain
+    - modin
+    - playwright
+    - ray[all]
