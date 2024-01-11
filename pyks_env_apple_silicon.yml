@@ -8,6 +8,7 @@ channels:
 
 dependencies:
   - python=3.10
+  - pip
 
   - aiofiles
   - aiohttp
@@ -22,7 +23,7 @@ dependencies:
   - click
   - codecov
   - connectorx
-  - cpuonly
+  # - cpuonly
   - cvxpy
   - cython
   - dask
@@ -35,7 +36,10 @@ dependencies:
   - distributed
   - exchange-calendars
   - fastapi
+  - featuretools
+  - feature_engine
   - fire
+  - flaml
   - guidance
   - holoviews
   - html5lib
@@ -91,8 +95,10 @@ dependencies:
   - schedule
   - scikit-learn
   - scipy
+  - scrapy
   - seaborn
   - snakeviz
+  - spacy
   - sqlalchemy
   - statsmodels
   - streamlit
@@ -119,3 +125,5 @@ dependencies:
     - modin
     - playwright
     - ray[all]
+    - pyautogen
+    - marvin
